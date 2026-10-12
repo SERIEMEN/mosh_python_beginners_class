@@ -80,3 +80,8 @@ space: to insert a new product or update an existing one
 for loops to repeat some code or if statements to dynamically render contents {} in out html markup to render values,
 -# ul and li you get bullet points but with divs you get
 -reformat code is like making indentations for you like arrange your code
+
+
+
+
+[link to django website](http://127.0.0.1:8000/admin/)
